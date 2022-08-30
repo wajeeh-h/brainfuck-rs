@@ -1,5 +1,5 @@
 # brainfuck-rs
-A brainfuck interpreter in Rust.
+A brainfuck interpreter written in Rust.
 
 # Usage
 ``` terminal
